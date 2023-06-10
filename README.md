@@ -1,4 +1,4 @@
-# FalconFBI
+# 🕵️ FalconFBI
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Honkware/FalconFBI/blob/main/FalconFBI.ipynb) | [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="Model Details" width="100">](https://huggingface.co/TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ)
 
