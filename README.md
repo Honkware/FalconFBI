@@ -13,3 +13,7 @@ To get started, click the "Open in Colab" button above to run the program in Goo
 This is a preview of the generated reports:
 
 [![Report](https://i.ibb.co/2h2B7Z8/report.png)](https://i.ibb.co/2h2B7Z8/report.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
