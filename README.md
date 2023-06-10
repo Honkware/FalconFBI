@@ -8,3 +8,8 @@ Generate reports for the FBI's Ten Most Wanted Fugitives List using 'TheBloke/Wi
 This program automatically generates reports for individuals listed in the FBI's Ten Most Wanted Fugitives List. It utilizes 'TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ' language model to generate informative summaries.
 
 To get started, click the "Open in Colab" button above to run the program in Google Colab.
+
+This is a preview of the generated reports:
+
+[![Report](https://i.ibb.co/2h2B7Z8/report.png)](https://i.ibb.co/2h2B7Z8/report.png)
+
